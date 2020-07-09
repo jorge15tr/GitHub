@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 public class GitH1 {
-
+// hola
     // VARIABLES GLOBALES
     static String[][] usuario = new String[5][2];
 //                                [5 usuarios] [1 ID + 1 contraseña]
